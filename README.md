@@ -1,4 +1,2 @@
 # hexlet-basics
-My First Repository
-Test1
-Test2
+My First Repository - Edition Version
